@@ -1,1 +1,2 @@
 # my-game-for-skillfactory
+* [Домашняя работа состоит из игры, в которой компьютер сам загадывает число от 1 до 100 и сам отгадывает его](https://github.com/danial49/my-game-for-skillfactory/blob/main/my_game.py)
